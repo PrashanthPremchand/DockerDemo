@@ -1,7 +1,3 @@
-Here is a **clean, professional, copy-paste ready README.md** for your GitHub repository.
-
----
-
 # 🐳 Spring Boot + PostgreSQL + Docker Demo
 
 A simple and clean starter project demonstrating how to run a **Spring Boot 3** application with a **PostgreSQL database** using **Docker** and **Docker Compose**.
